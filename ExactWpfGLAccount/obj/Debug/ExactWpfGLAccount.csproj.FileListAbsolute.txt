@@ -1,0 +1,58 @@
+c:\users\jeroen van amsterdam\documents\visual studio 2015\Projects\ExactWpfGLAccount\ExactWpfGLAccount\bin\Debug\ExactWpfGLAccount.exe.config
+c:\users\jeroen van amsterdam\documents\visual studio 2015\Projects\ExactWpfGLAccount\ExactWpfGLAccount\bin\Debug\ExactWpfGLAccount.exe
+c:\users\jeroen van amsterdam\documents\visual studio 2015\Projects\ExactWpfGLAccount\ExactWpfGLAccount\bin\Debug\ExactWpfGLAccount.pdb
+c:\users\jeroen van amsterdam\documents\visual studio 2015\Projects\ExactWpfGLAccount\ExactWpfGLAccount\obj\Debug\MainWindow.g.cs
+c:\users\jeroen van amsterdam\documents\visual studio 2015\Projects\ExactWpfGLAccount\ExactWpfGLAccount\obj\Debug\App.g.cs
+c:\users\jeroen van amsterdam\documents\visual studio 2015\Projects\ExactWpfGLAccount\ExactWpfGLAccount\obj\Debug\ExactWpfGLAccount_MarkupCompile.cache
+c:\users\jeroen van amsterdam\documents\visual studio 2015\Projects\ExactWpfGLAccount\ExactWpfGLAccount\obj\Debug\ExactWpfGLAccount_MarkupCompile.lref
+c:\users\jeroen van amsterdam\documents\visual studio 2015\Projects\ExactWpfGLAccount\ExactWpfGLAccount\obj\Debug\MainWindow.baml
+c:\users\jeroen van amsterdam\documents\visual studio 2015\Projects\ExactWpfGLAccount\ExactWpfGLAccount\obj\Debug\ExactWpfGLAccount.g.resources
+c:\users\jeroen van amsterdam\documents\visual studio 2015\Projects\ExactWpfGLAccount\ExactWpfGLAccount\obj\Debug\ExactWpfGLAccount.Properties.Resources.resources
+c:\users\jeroen van amsterdam\documents\visual studio 2015\Projects\ExactWpfGLAccount\ExactWpfGLAccount\obj\Debug\ExactWpfGLAccount.csproj.GenerateResource.Cache
+c:\users\jeroen van amsterdam\documents\visual studio 2015\Projects\ExactWpfGLAccount\ExactWpfGLAccount\obj\Debug\ExactWpfGLAccount.exe
+c:\users\jeroen van amsterdam\documents\visual studio 2015\Projects\ExactWpfGLAccount\ExactWpfGLAccount\obj\Debug\ExactWpfGLAccount.pdb
+c:\users\jeroen van amsterdam\documents\visual studio 2015\Projects\ExactWpfGLAccount\ExactWpfGLAccount\bin\Debug\Newtonsoft.Json.dll
+c:\users\jeroen van amsterdam\documents\visual studio 2015\Projects\ExactWpfGLAccount\ExactWpfGLAccount\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jeroen van Amsterdam\Documents\Visual Studio 2015\Projects\ExactWpfGLAccount\ExactWpfGLAccount\obj\Debug\GLAEdit.g.cs
+C:\Users\Jeroen van Amsterdam\Documents\Visual Studio 2015\Projects\ExactWpfGLAccount\ExactWpfGLAccount\obj\Debug\GLAList.g.cs
+C:\Users\Jeroen van Amsterdam\Documents\Visual Studio 2015\Projects\ExactWpfGLAccount\ExactWpfGLAccount\obj\Debug\GLAEdit.baml
+C:\Users\Jeroen van Amsterdam\Documents\Visual Studio 2015\Projects\ExactWpfGLAccount\ExactWpfGLAccount\obj\Debug\GLAList.baml
+C:\Users\amje\Documents\Visual Studio 2017\Projects\Exact\ExactWpfGLAccount\ExactWpfGLAccount\bin\Debug\ExactWpfGLAccount.exe.config
+C:\Users\amje\Documents\Visual Studio 2017\Projects\Exact\ExactWpfGLAccount\ExactWpfGLAccount\bin\Debug\ExactWpfGLAccount.exe
+C:\Users\amje\Documents\Visual Studio 2017\Projects\Exact\ExactWpfGLAccount\ExactWpfGLAccount\bin\Debug\ExactWpfGLAccount.pdb
+C:\Users\amje\Documents\Visual Studio 2017\Projects\Exact\ExactWpfGLAccount\ExactWpfGLAccount\bin\Debug\Newtonsoft.Json.dll
+C:\Users\amje\Documents\Visual Studio 2017\Projects\Exact\ExactWpfGLAccount\ExactWpfGLAccount\bin\Debug\Newtonsoft.Json.xml
+C:\Users\amje\Documents\Visual Studio 2017\Projects\Exact\ExactWpfGLAccount\ExactWpfGLAccount\obj\Debug\GLAEdit.g.cs
+C:\Users\amje\Documents\Visual Studio 2017\Projects\Exact\ExactWpfGLAccount\ExactWpfGLAccount\obj\Debug\GLAList.g.cs
+C:\Users\amje\Documents\Visual Studio 2017\Projects\Exact\ExactWpfGLAccount\ExactWpfGLAccount\obj\Debug\MainWindow.g.cs
+C:\Users\amje\Documents\Visual Studio 2017\Projects\Exact\ExactWpfGLAccount\ExactWpfGLAccount\obj\Debug\App.g.cs
+C:\Users\amje\Documents\Visual Studio 2017\Projects\Exact\ExactWpfGLAccount\ExactWpfGLAccount\obj\Debug\ExactWpfGLAccount_MarkupCompile.cache
+C:\Users\amje\Documents\Visual Studio 2017\Projects\Exact\ExactWpfGLAccount\ExactWpfGLAccount\obj\Debug\ExactWpfGLAccount_MarkupCompile.lref
+C:\Users\amje\Documents\Visual Studio 2017\Projects\Exact\ExactWpfGLAccount\ExactWpfGLAccount\obj\Debug\GLAEdit.baml
+C:\Users\amje\Documents\Visual Studio 2017\Projects\Exact\ExactWpfGLAccount\ExactWpfGLAccount\obj\Debug\GLAList.baml
+C:\Users\amje\Documents\Visual Studio 2017\Projects\Exact\ExactWpfGLAccount\ExactWpfGLAccount\obj\Debug\MainWindow.baml
+C:\Users\amje\Documents\Visual Studio 2017\Projects\Exact\ExactWpfGLAccount\ExactWpfGLAccount\obj\Debug\ExactWpfGLAccount.g.resources
+C:\Users\amje\Documents\Visual Studio 2017\Projects\Exact\ExactWpfGLAccount\ExactWpfGLAccount\obj\Debug\ExactWpfGLAccount.Properties.Resources.resources
+C:\Users\amje\Documents\Visual Studio 2017\Projects\Exact\ExactWpfGLAccount\ExactWpfGLAccount\obj\Debug\ExactWpfGLAccount.csproj.GenerateResource.Cache
+C:\Users\amje\Documents\Visual Studio 2017\Projects\Exact\ExactWpfGLAccount\ExactWpfGLAccount\obj\Debug\ExactWpfGLAccount.exe
+C:\Users\amje\Documents\Visual Studio 2017\Projects\Exact\ExactWpfGLAccount\ExactWpfGLAccount\obj\Debug\ExactWpfGLAccount.pdb
+C:\Users\amje\Documents\Visual Studio 2017\Projects\Exact\ExactWpfGLAccount\ExactWpfGLAccount\obj\Debug\ExactWpfGLAccount.csproj.CoreCompileInputs.cache
+C:\Users\amje\Documents\Visual Studio 2017\Projects\Exact\ExactWpfGLAccount\ExactWpfGLAccount\obj\Debug\ExactWpfGLAccount.csprojResolveAssemblyReference.cache
+C:\Users\Ron\source\repos\ExactWpfGLAccount\ExactWpfGLAccount\bin\Debug\ExactWpfGLAccount.exe.config
+C:\Users\Ron\source\repos\ExactWpfGLAccount\ExactWpfGLAccount\bin\Debug\ExactWpfGLAccount.exe
+C:\Users\Ron\source\repos\ExactWpfGLAccount\ExactWpfGLAccount\bin\Debug\ExactWpfGLAccount.pdb
+C:\Users\Ron\source\repos\ExactWpfGLAccount\ExactWpfGLAccount\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ron\source\repos\ExactWpfGLAccount\ExactWpfGLAccount\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ron\source\repos\ExactWpfGLAccount\ExactWpfGLAccount\obj\Debug\GLAList.g.cs
+C:\Users\Ron\source\repos\ExactWpfGLAccount\ExactWpfGLAccount\obj\Debug\MainWindow.g.cs
+C:\Users\Ron\source\repos\ExactWpfGLAccount\ExactWpfGLAccount\obj\Debug\App.g.cs
+C:\Users\Ron\source\repos\ExactWpfGLAccount\ExactWpfGLAccount\obj\Debug\ExactWpfGLAccount_MarkupCompile.cache
+C:\Users\Ron\source\repos\ExactWpfGLAccount\ExactWpfGLAccount\obj\Debug\ExactWpfGLAccount_MarkupCompile.lref
+C:\Users\Ron\source\repos\ExactWpfGLAccount\ExactWpfGLAccount\obj\Debug\GLAList.baml
+C:\Users\Ron\source\repos\ExactWpfGLAccount\ExactWpfGLAccount\obj\Debug\MainWindow.baml
+C:\Users\Ron\source\repos\ExactWpfGLAccount\ExactWpfGLAccount\obj\Debug\ExactWpfGLAccount.g.resources
+C:\Users\Ron\source\repos\ExactWpfGLAccount\ExactWpfGLAccount\obj\Debug\ExactWpfGLAccount.Properties.Resources.resources
+C:\Users\Ron\source\repos\ExactWpfGLAccount\ExactWpfGLAccount\obj\Debug\ExactWpfGLAccount.csproj.GenerateResource.Cache
+C:\Users\Ron\source\repos\ExactWpfGLAccount\ExactWpfGLAccount\obj\Debug\ExactWpfGLAccount.csproj.CoreCompileInputs.cache
+C:\Users\Ron\source\repos\ExactWpfGLAccount\ExactWpfGLAccount\obj\Debug\ExactWpfGLAccount.exe
+C:\Users\Ron\source\repos\ExactWpfGLAccount\ExactWpfGLAccount\obj\Debug\ExactWpfGLAccount.pdb
